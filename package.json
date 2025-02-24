@@ -1,0 +1,25 @@
+{
+	"name": "Le moderne",
+	"displayName": "Le moderne",
+	"icon": "./lemoderne.png",
+	"description": "A subtle blend between VSCode's Dark Modern interface and Atom's One Dark syntax highlights.",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Le moderne",
+				"uiTheme": "vs-dark",
+				"path": "./themes/le-moderne-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 58455
+	}
+}
