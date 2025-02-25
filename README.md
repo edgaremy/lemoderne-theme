@@ -1,5 +1,6 @@
-# Le moderne.
 <img src="https://github.com/edgaremy/lemoderne-theme/blob/main/lemoderne.png?raw=true" width="210">
+
+# Le moderne.
 
 ### Dark Theme for VSCode
 
