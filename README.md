@@ -1,5 +1,3 @@
-<img src="https://github.com/edgaremy/lemoderne-theme/blob/main/lemoderne.png?raw=true" width="200">
-
 # Le moderne.
 
 A modern dark theme for VSCode, made with a subtle blend between **VSCode's Dark Modern** interface and **Atom's One Dark** syntax highlights, with some additional custom tweaks.
@@ -7,6 +5,7 @@ A modern dark theme for VSCode, made with a subtle blend between **VSCode's Dark
 <img src="https://github.com/edgaremy/lemoderne-theme/blob/main/screenshot.png?raw=true">
 
 ## Main features
+<img src="https://github.com/edgaremy/lemoderne-theme/blob/main/lemoderne.png?raw=true" width="200">
 
 - **Deep dark interface**: similar to VSCode's Dark Modern theme, Le moderne uses **deep blacks and grays** for the interface background, with **no borders**, giving a **modern & minimal look**.
 - **Colorful Editor**: similar to Atom's One Dark theme, Le moderne provides a **playful color palette for syntax highlighting**, using mainly primary and secondary colors.
