@@ -1,5 +1,5 @@
 {
-	"name": "Le moderne",
+	"name": "le-moderne",
 	"displayName": "Le moderne",
 	"icon": "./lemoderne.png",
 	"description": "A subtle blend between VSCode's Dark Modern interface and Atom's One Dark syntax highlights.",
@@ -18,8 +18,5 @@
 				"path": "./themes/le-moderne-color-theme.json"
 			}
 		]
-	},
-	"__metadata": {
-		"size": 58455
 	}
 }
