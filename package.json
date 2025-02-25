@@ -5,6 +5,11 @@
 	"description": "A subtle blend between VSCode's Dark Modern interface and Atom's One Dark syntax highlights.",
 	"version": "1.0.0",
 	"publisher": "edgaremy",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edgaremy/lemoderne-theme"
+	},
+	"homepage": "https://github.com/edgaremy/lemoderne-theme/blob/main/README.md",
     "license": "MIT",
 	"engines": {
 		"vscode": "^1.80.0"
