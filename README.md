@@ -1,4 +1,4 @@
-<img src="https://github.com/edgaremy/lemoderne-theme/blob/main/lemoderne.png?raw=true" width="210">
+<img src="https://github.com/edgaremy/lemoderne-theme/blob/main/lemoderne.png?raw=true" width="200">
 
 # Le moderne.
 
