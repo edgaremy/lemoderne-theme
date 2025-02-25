@@ -273,7 +273,7 @@
         "comment"
       ],
       "settings": {
-        "foreground": "#5C6370",
+        "foreground": "#727272",
         "fontStyle": "italic"
       }
     },
@@ -283,7 +283,7 @@
         "comment markup.link"
       ],
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#727272"
       }
     },
     {
@@ -494,7 +494,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#727272"
       }
     },
     {
@@ -2143,7 +2143,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#5C6370",
+        "foreground": "#727272",
         "fontStyle": "italic"
       }
     },
