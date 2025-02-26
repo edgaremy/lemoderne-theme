@@ -13,4 +13,6 @@ A modern dark theme for VSCode, made with a subtle blend between **VSCode's Dark
 - Compared to One Dark, Le moderne tends to use **less red in the editor**, to make it less distracting (*NOTE: syntax highlight adjustments were primarily done for the use of **Python**, though the theme should work with other languages with no issue*).
 
 ## Credits
-This theme could not exist without the original [**One Dark**](https://github.com/atom/one-dark-syntax) made by [Atom](https://github.com/atom) and the VSCode version ([**Atom One Dark**](https://github.com/akamud/vscode-theme-onedark), made by [Mahmoud Ali](https://github.com/akamud)) from which **Le moderne** is greatly inspired. 
+This theme could not exist without the original [**One Dark**](https://github.com/atom/one-dark-syntax) made by [Atom](https://github.com/atom) and the VSCode version ([**Atom One Dark**](https://github.com/akamud/vscode-theme-onedark), made by [Mahmoud Ali](https://github.com/akamud)) from which **Le moderne** is greatly inspired.
+
+Screenshots were made using the [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) font.
