@@ -13,8 +13,8 @@ def main():
     # A simple loop
     print("Let's compare with math.pow")
     for i in range(10):
-        print(f"The square of {i} is:
-              {math.pow(user_input, 2)(i)}")
+        print(f"The square of {i} is:\
+              {math.pow(user_input, 2)}")
     
     # A simple condition
     if os.path.exists("samples"):
