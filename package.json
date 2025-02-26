@@ -3,14 +3,14 @@
 	"displayName": "Le moderne",
 	"icon": "./lemoderne.png",
 	"description": "A subtle blend between VSCode's Dark Modern interface and Atom's One Dark syntax highlights.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "edgaremy",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/edgaremy/lemoderne-theme"
 	},
 	"homepage": "https://github.com/edgaremy/lemoderne-theme/blob/main/README.md",
-    "license": "MIT",
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.80.0"
 	},
@@ -18,12 +18,12 @@
 		"Themes"
 	],
 	"keywords": [
-        "modern",
-        "theme",
-        "dark",
-        "one dark",
+		"modern",
+		"theme",
+		"dark",
+		"one dark",
 		"modern dark"
-    ],
+	],
 	"contributes": {
 		"themes": [
 			{
