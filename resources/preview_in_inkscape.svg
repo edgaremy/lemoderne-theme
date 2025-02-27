@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="1304"
-     inkscape:cy="919.99998"
+     inkscape:zoom="0.50000002"
+     inkscape:cx="2112.9999"
+     inkscape:cy="443.99998"
      inkscape:window-width="1920"
      inkscape:window-height="1163"
      inkscape:window-x="0"
@@ -139,4 +139,12 @@
        x="-582.45703"
        y="589.60211"
        ry="5.4962473"
-       inkscape:label="fracture_round_corner_filter" /></g></svg>
+       inkscape:label="fracture_round_corner_filter" /><rect
+       style="fill:#181818;stroke-width:1.198;fill-opacity:1"
+       id="rect1"
+       width="21.497396"
+       height="9.8557291"
+       x="816.63647"
+       y="-55.628639"
+       ry="0"
+       inkscape:label="hide_window_buttons" /></g></svg>
